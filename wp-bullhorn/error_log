@@ -1,0 +1,4 @@
+[14-Aug-2015 15:56:25 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) in /home/graphike/public_html/eos/wp-content/plugins/wp-bullhorn/bullhorn-api.php on line 18
+[14-Aug-2015 15:56:44 UTC] PHP Fatal error:  Class 'Request' not found in /home/graphike/public_html/eos/wp-content/plugins/wp-bullhorn/bullhorn-api.php on line 30
+[14-Aug-2015 16:01:49 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/graphike/public_html/eos/wp-content/plugins/wp-bullhorn/bullhorn-api.php on line 14
+[14-Aug-2015 16:02:02 UTC] PHP Fatal error:  Class 'Request' not found in /home/graphike/public_html/eos/wp-content/plugins/wp-bullhorn/bullhorn-api.php on line 32
